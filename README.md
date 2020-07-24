@@ -10,9 +10,8 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 - 🌱 I’m currently learning Flutter, Web Technologies, and DevOps
 - 💬 Ask me about anything [here](https://github.com/yashimself/yashimself/issues)
 - 📫 How to reach me: <a href="https://twitter.com/shirbhateyash">
-  <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-[Telegram](https://t.me/yashshirbhate)
 
 
 
