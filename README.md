@@ -24,7 +24,4 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 
 <a href="https://github.com/yashimself/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/yashimself/yashimself.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=yashimself.github.io&theme=radical" />
-</a>
+</a> 
