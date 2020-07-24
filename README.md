@@ -4,7 +4,7 @@
 </a>
 <br />
 <br />
-Hi! I am Yash Shirbhate. I am a Computer Science student from India.
+Hi! I am Yash Shirbhate, Computer Science student from India.
 <br />
 <br />
 
@@ -24,4 +24,12 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 <a href="https://github.com/yashimself/x">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=x&theme=radical" />
 </a>
-
+<a href="https://github.com/yashimself/flutter_project">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=flutter_project&theme=radical" />
+</a>
+<a href="https://github.com/yashimself/java">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=java&theme=radical" />
+</a>
+<a href="https://github.com/yashimself/python">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=python&theme=radical" />
+</a>
