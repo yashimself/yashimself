@@ -4,9 +4,7 @@
 </a>
 <br />
 <br />
-
 Hi! I am Yash Shirbhate. I am a Computer Science student from India.
-
 
 - 🔭 I’m currently working on my [IM app](https://github.com/yashimself/x)
 - 🌱 I’m currently learning Flutter, Web Technologies, and DevOps
@@ -19,7 +17,6 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 
 
 <a href="https://github.com/yashimself/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/yashimself/github-readme-stats">
@@ -27,10 +24,8 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 </a>
 
 <a href="https://github.com/yashimself/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/yashimself/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/yashimself/yashimself.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=yashimself.github.io&theme=radical" />
 </a>
