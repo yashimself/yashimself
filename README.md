@@ -32,5 +32,5 @@ Hi! I am Yash Shirbhate. I am a Computer Science student from India.
 </a>    
 <a href="https://github.com/yashimself/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&repo=yashimself.github.io&theme=radical" />
 </a>
