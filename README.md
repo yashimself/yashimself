@@ -17,9 +17,9 @@ Hi! I am Yash Shirbhate, Computer Science student from India.
 
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&show_icons=true&theme=radical&hide=glsl,python" />
+  <img align="left" margin: 15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&show_icons=true&theme=radical&hide=glsl,python" />
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" />
+  <img align="right" margin: 15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" />
 <br>
 <br>
 <a href="https://github.com/yashimself/x">
