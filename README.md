@@ -28,9 +28,3 @@ Hi! I am Yash Shirbhate, Computer Science student from India.
 <a href="https://github.com/yashimself/flutter_project">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=flutter_project&theme=radical" />
 </a>
-<a href="https://github.com/yashimself/java">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=java&theme=radical" />
-</a>
-<a href="https://github.com/yashimself/python">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=python&theme=radical" />
-</a>
