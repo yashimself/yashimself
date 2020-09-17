@@ -31,6 +31,6 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 <a href="https://github.com/yashimself/android_X00TD_device_tree">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=android_X00TD_device_tree&theme=radical" />
 </a>
-<a href="https://github.com/yashimself/android_device_sdm660-common">
-  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=android_device_sdm660-common&theme=radical" />
+<a href="https://github.com/yashimself/android_kernel_sdm660">
+  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=android_kernel_sdm660&theme=radical"/>
 </a>
