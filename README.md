@@ -17,7 +17,7 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 
 
 
-  <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&show_icons=true&theme=radical" />
+  <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&langs_count=10&show_icons=true&theme=radical" />
 
   <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" />
 <br>
