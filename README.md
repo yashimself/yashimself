@@ -28,6 +28,9 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 <a href="https://github.com/yashimself/android_kernel_sdm660">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=android_kernel_sdm660&theme=radical" />
 </a>
+<a href="https://github.com/yashimself/proprietary_vendor_asus">
+  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=proprietary_vendor_asus&theme=radical" />
+</a>
 <a href="https://github.com/yashimself/x">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=x&theme=radical" />
 </a>
