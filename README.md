@@ -8,7 +8,7 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 <br />
 <br />
 
-- 🔭 I’m currently working on my [IM app](https://github.com/yashimself/x)
+- 🔭 I’m currently working on my [IM app](https://github.com/yashimself/x) & Android Development
 - 🌱 I’m currently learning Flutter, [AOSP Development](https://source.android.com/), and DevOps
 - 💬 Ask me about anything [here](https://github.com/yashimself/yashimself/issues)
 - 📫 How to reach me: <a href="https://twitter.com/shirbhateyash">
