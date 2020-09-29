@@ -34,12 +34,12 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 <a href="https://github.com/yashimself/x">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=x&theme=radical" />
 </a>
-<a href="https://github.com/yashimself/shell">
-  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=shell&theme=radical" />
+<a href="https://github.com/yashimself/2-pass-assembler">
+  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=2-pass-assembler&theme=radical" />
+</a>
+<a href="https://github.com/yashimself/attend-google-meet-meetings">
+  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=attend-google-meet-meetings&theme=radical" />
 </a>
 <a href="https://github.com/yashimself/java">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=java&theme=radical" />
-</a>
-<a href="https://github.com/yashimself/python">
-  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=python&theme=radical" />
 </a>
