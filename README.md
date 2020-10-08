@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/yashimself/yashimself/master/5f7ed75c90040600c4b7511d_185640.gif"><br>
 ### Hi there, I'm Yash. 👋
 <a href="https://twitter.com/shirbhateyash">
   <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
