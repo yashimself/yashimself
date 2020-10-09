@@ -13,8 +13,6 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 - 🌱 I’m currently learning Flutter, [AOSP Development](https://source.android.com/), and DevOps
 - 💬 Ask me about anything [here](https://github.com/yashimself/yashimself/issues)
 - 📫 How to reach me: yash[at]yash[dot]ninja
-  <img alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 
 
