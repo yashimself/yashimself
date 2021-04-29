@@ -32,8 +32,8 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 <a href="https://github.com/yashimself/x">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=x&theme=radical" />
 </a>
-<a href="https://github.com/yashimself/2-pass-assembler">
-  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=2-pass-assembler&theme=radical" />
+<a href="https://github.com/yashimself/RSA">
+  <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=RSA&theme=radical" />
 </a>
 <a href="https://github.com/yashimself/attend-google-meet-meetings">
   <img align="left" float=left src="https://github-readme-stats.vercel.app/api/pin/?username=yashimself&show_icons=true&repo=attend-google-meet-meetings&theme=radical" />
