@@ -23,6 +23,8 @@ I study Computer Science by day and turn caffeine :coffee: into code :computer: 
 
   <img margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" align = "right"/> </p>
 <br>
+<br>
+<br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
