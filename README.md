@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashimself/yashimself/master/5f7ed75c90040600c4b7511d_185640.gif"><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76767&center=true&width=500&lines=Hello+world!+I+am+Yash;I+am+a+Software+Engineer+by+profession;I+work+on+various+projects+in+my+free+time;Thanks+for+visiting+my+profile.)](https://git.io/typing-svg)
 ### Hi there, I'm Yash. 👋
 <a href="https://twitter.com/shirbhateyash">
   <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -11,7 +11,7 @@ Hi! My name is Yash Shirbhate. I study Computer Science by day and turn caffeine
 
 - 🌱 I’m currently learning [AOSP Development](https://source.android.com/), Computer Vision and ML.
 - 💬 Ask me about anything [here](https://github.com/yashimself/yashimself/issues)
-- 📫 How to reach me: yash[at]yash[dot]ninja
+- 📫 How to reach me: yashshirbhate[at]pm[dot]me
 
 
 
