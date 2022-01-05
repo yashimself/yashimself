@@ -21,7 +21,7 @@ I study Computer Science by day and turn caffeine :coffee: into code :computer: 
 <br>
 <img margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&hide=yacc,smpl&langs_count=10&show_icons=true&theme=radical" float = "left"/>
 
-<img margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" float = "right"/> 
+<img margin=10px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" float = "left"/> 
 <br>
 <br>
 
