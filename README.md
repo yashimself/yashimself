@@ -18,23 +18,17 @@ I study Computer Science by day and turn caffeine :coffee: into code :computer: 
 - 📫 How to reach me: yashshirbhate[at]pm[dot]me
 
 
+<br>
+<img margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&hide=yacc,smpl&langs_count=10&show_icons=true&theme=radical" float = "left"/>
 
- <p align = "center"> <img margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&hide=yacc,smpl&langs_count=10&show_icons=true&theme=radical" align = "left"/>
+<img margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" float = "right"/> 
+<br>
+<br>
 
-  <img margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" align = "right"/> </p>
-<br>
-<br>
-<br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=yashimself&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight&hide_rank=false&count_private=true&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"></p>
