@@ -10,7 +10,7 @@
 </a>
 <br />
 <br />
-I study Computer Science by day and turn caffeine <img alt="coffee" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/coffee.gif" algin="left"/>&nbsp; into code &nbsp;<img alt="program" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/program.gif" algin="left" />&nbsp; for rest of my time.
+<p align="center">I study Computer Science by day and turn caffeine <img alt="coffee" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/coffee.gif" algin="left"/>&nbsp; into code &nbsp;<img alt="program" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/program.gif" algin="left" />&nbsp; for rest of my time.</p>
 <br />
 <br />
 
