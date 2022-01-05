@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76767&center=true&width=500&lines=Hello+world!+I+am+Yash;I+am+a+Software+Engineer+by+profession;I+work+on+various+projects+in+my+free+time;Thanks+for+visiting+my+profile.)](https://git.io/typing-svg)
 </br>
       <img align="center" alt="what I do" src="https://raw.githubusercontent.com/yashimself/yashimself/master/welcome.gif" width="990" height="520" />
-      ### <img src="https://raw.githubusercontent.com/harshhaareddy/harshhaareddy/master/Assets/Hi.gif" width="29px"> **Hello world!**</br>
+      <br>
+      <img src="https://raw.githubusercontent.com/harshhaareddy/harshhaareddy/master/Assets/Hi.gif" width="29px"> **Hello world!**</br>
 <h3 align="center"> I am a passionate Software Engineer & Developer from India</h3>
 <a href="https://twitter.com/shirbhateyash">
   <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -18,9 +19,9 @@ I study Computer Science by day and turn caffeine :coffee: into code :computer: 
 
 
 
-  <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&hide=yacc,smpl&langs_count=10&show_icons=true&theme=radical" />
+ <p align = "center"> <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself&hide=yacc,smpl&langs_count=10&show_icons=true&theme=radical" />
 
-  <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" />
+  <img float="left" margin=15px src="https://github-readme-stats.vercel.app/api?username=yashimself&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats" /> </p>
 <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
