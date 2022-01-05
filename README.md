@@ -2,10 +2,11 @@
 </br>
       <img align="center" alt="what I do" src="https://raw.githubusercontent.com/yashimself/yashimself/master/welcome.gif" width="990" height="520" />
       <br>
+      <br>
       <img src="https://raw.githubusercontent.com/harshhaareddy/harshhaareddy/master/Assets/Hi.gif" width="29px"> **Hello world!**</br>
 <h3 align="center"> I am a passionate Software Engineer & Developer from India</h3>
 <a href="https://twitter.com/shirbhateyash">
-  <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt=" Yash Shirbhate | Twitter" width="21px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/twitter.gif" />
 </a>
 <br />
 <br />
