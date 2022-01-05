@@ -26,6 +26,13 @@ I study Computer Science by day and turn caffeine :coffee: into code :computer: 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ## Streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=yashimself&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight&hide_rank=false&count_private=true&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"></p>
