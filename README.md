@@ -5,12 +5,6 @@
       <br>
       <img src="https://raw.githubusercontent.com/harshhaareddy/harshhaareddy/master/Assets/Hi.gif" width="29px"> **Hello world!**</br>
 <h3 align="center"> I am a passionate Software Engineer & Developer from India</h3>
-<a href="https://twitter.com/shirbhateyash">
-  <img align="left" alt=" Yash Shirbhate | Twitter" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/twitter.gif" />
-</a>
-<br />
-<br />
-<p align="center">I study Computer Science by day and turn caffeine <img alt="coffee" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/coffee.gif" algin="left"/>&nbsp; into code &nbsp;<img alt="program" width="29px" src="https://raw.githubusercontent.com/yashimself/yashimself/master/program.gif" algin="left" />&nbsp; for rest of my time.</p>
 <br />
 <br />
 
